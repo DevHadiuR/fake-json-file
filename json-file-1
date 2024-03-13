@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "iPhone 13 Pro", "price": 999, "releaseDate": "2021-09-24", "displaySize": "6.1 inches", "weight": "0.41 lbs" },
+    { "id": 2, "name": "Samsung Galaxy S21", "price": 799, "releaseDate": "2021-01-29", "displaySize": "6.2 inches", "weight": "0.35 lbs" },
+    { "id": 3, "name": "Google Pixel 6", "price": 699, "releaseDate": "2021-10-28", "displaySize": "6.4 inches", "weight": "0.39 lbs" },
+    { "id": 4, "name": "OnePlus 9 Pro", "price": 969, "releaseDate": "2021-03-26", "displaySize": "6.7 inches", "weight": "0.48 lbs" },
+    { "id": 5, "name": "Xiaomi Mi 11 Ultra", "price": 1199, "releaseDate": "2021-04-02", "displaySize": "6.81 inches", "weight": "0.62 lbs" }
+]
